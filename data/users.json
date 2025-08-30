@@ -1,0 +1,10 @@
+{
+  "nacho": {
+    "role": "teacher",
+    "courses": ["cloud101", "english101"]
+  },
+  "ana": {
+    "role": "student",
+    "courses": ["english101"]
+  }
+}

@@ -2,7 +2,6 @@ package api.auth
 
 default allow := false
 
-allow if {
+allow {
 	input.client_id in data.apis[input.api]
 }
-

@@ -1,0 +1,24 @@
+{
+    "apis": {
+        "bs-api-v1": [
+            "6f75fceb-1352-4334-97ec-3a08c7af9c45",
+            "96352037-e5bf-4185-bd7c-c2c72f540ddb",
+            "1e04afc5-8201-48ea-baa0-f51c47f225b6"
+        ],
+        "bs-api-v2": [
+            "2a3e73c8-91a3-4d6f-8ef3-e11b5a8ad7f3",
+            "bdc28d68-f74a-4dd8-a2c2-861dc340374e",
+            "ff613571-2f1e-4e57-883d-43d19a4b57b0"
+        ],
+        "bs-api-v3": [
+            "616dd9e0-9cc3-48ce-ae2b-3e0c3b240994",
+            "83183a50-9a04-49c6-82cf-e35896fce155",
+            "17fdbfd4-1733-48f0-a15e-097a1652b60f"
+        ],
+        "bs-api-v4": [
+            "3c12b081-0486-4b14-b9a2-de3b8f4fa76c",
+            "c96e0e18-9cc5-42df-be03-84bc5c9247e1",
+            "753c404d-a87a-44c7-8e9a-fd9bd6a6fe87"
+        ]
+    }
+}

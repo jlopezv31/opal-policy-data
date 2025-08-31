@@ -3,5 +3,7 @@ package api.auth
 default allow = false
 
 allow {
-	input.client_id in data.apis[input.api]
+	input.api
+    input.client_id
+    data.apis[input.api][_] == input.client_id
 }
